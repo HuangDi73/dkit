@@ -1,4 +1,4 @@
-import { join } from "@std/path/join";
+import { join } from "@std/path";
 
 export const version = "0.0.1";
 export const zedDir = ".zed";
