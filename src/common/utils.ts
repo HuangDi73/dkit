@@ -5,10 +5,10 @@ export const zedDir = ".zed";
 export const settingsPath = join(zedDir, "settings.json");
 
 export const help = `
-dkit — CLI для быстрой настройки Deno-проектов
+dekit — CLI для быстрой настройки Deno-проектов
 
 Использование:
-  dkit <command>
+  dekit <command>
 
 Команды:
   init-zed       Создать .zed/settings.json для локальной поддержки Deno в Zed Editor
